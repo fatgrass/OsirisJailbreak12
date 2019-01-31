@@ -7,6 +7,9 @@ An incomplete iOS 12 Jailbreak. For now it only runs the exploit, gets tfp0, get
 
 ### DEVELOPER JAILBREAK! NOT FOR THE GENERAL PUBLIC
 
+### Demo video:
+https://twitter.com/FCE365/status/1090770862238777344
+
 ### Credits:
 <ul>
   <li> Jonathan Levin for QiLin and his books! </li>
